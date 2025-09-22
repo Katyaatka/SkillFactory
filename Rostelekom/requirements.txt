@@ -1,4 +1,0 @@
-selenium
-python-dotenv
-pytest
-webdriver_manager
